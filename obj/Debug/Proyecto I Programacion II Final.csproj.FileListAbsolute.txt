@@ -1,0 +1,8 @@
+C:\Users\erick\source\repos\Proyecto I Programacion II Final\Proyecto I Programacion II Final\bin\Debug\Proyecto I Programacion II Final.exe.config
+C:\Users\erick\source\repos\Proyecto I Programacion II Final\Proyecto I Programacion II Final\bin\Debug\Proyecto I Programacion II Final.exe
+C:\Users\erick\source\repos\Proyecto I Programacion II Final\Proyecto I Programacion II Final\bin\Debug\Proyecto I Programacion II Final.pdb
+C:\Users\erick\source\repos\Proyecto I Programacion II Final\Proyecto I Programacion II Final\obj\Debug\Proyecto I Programacion II Final.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Proyecto I Programacion II Final\Proyecto I Programacion II Final\obj\Debug\Proyecto I Programacion II Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\erick\source\repos\Proyecto I Programacion II Final\Proyecto I Programacion II Final\obj\Debug\Proyecto I Programacion II Final.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Proyecto I Programacion II Final\Proyecto I Programacion II Final\obj\Debug\Proyecto I Programacion II Final.exe
+C:\Users\erick\source\repos\Proyecto I Programacion II Final\Proyecto I Programacion II Final\obj\Debug\Proyecto I Programacion II Final.pdb
