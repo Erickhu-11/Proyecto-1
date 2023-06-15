@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace Proyecto_I_Programacion_II_Final
 {
-    internal class Clsmenu
+    internal class Program
     {
-        public void principal()
+        static void Main(string[] args)
         {
             string op = "";
             do
@@ -43,3 +43,4 @@ namespace Proyecto_I_Programacion_II_Final
         }
     }
 }
+
